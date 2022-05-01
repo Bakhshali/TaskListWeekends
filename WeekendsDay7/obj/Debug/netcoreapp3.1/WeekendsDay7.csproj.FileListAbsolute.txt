@@ -1,0 +1,14 @@
+C:\Users\Ali\source\repos\WeekendsDay7\WeekendsDay7\obj\Debug\netcoreapp3.1\WeekendsDay7.csproj.AssemblyReference.cache
+C:\Users\Ali\source\repos\WeekendsDay7\WeekendsDay7\obj\Debug\netcoreapp3.1\WeekendsDay7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\source\repos\WeekendsDay7\WeekendsDay7\obj\Debug\netcoreapp3.1\WeekendsDay7.AssemblyInfoInputs.cache
+C:\Users\Ali\source\repos\WeekendsDay7\WeekendsDay7\obj\Debug\netcoreapp3.1\WeekendsDay7.AssemblyInfo.cs
+C:\Users\Ali\source\repos\WeekendsDay7\WeekendsDay7\obj\Debug\netcoreapp3.1\WeekendsDay7.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\WeekendsDay7\WeekendsDay7\bin\Debug\netcoreapp3.1\WeekendsDay7.exe
+C:\Users\Ali\source\repos\WeekendsDay7\WeekendsDay7\bin\Debug\netcoreapp3.1\WeekendsDay7.deps.json
+C:\Users\Ali\source\repos\WeekendsDay7\WeekendsDay7\bin\Debug\netcoreapp3.1\WeekendsDay7.runtimeconfig.json
+C:\Users\Ali\source\repos\WeekendsDay7\WeekendsDay7\bin\Debug\netcoreapp3.1\WeekendsDay7.runtimeconfig.dev.json
+C:\Users\Ali\source\repos\WeekendsDay7\WeekendsDay7\bin\Debug\netcoreapp3.1\WeekendsDay7.dll
+C:\Users\Ali\source\repos\WeekendsDay7\WeekendsDay7\bin\Debug\netcoreapp3.1\WeekendsDay7.pdb
+C:\Users\Ali\source\repos\WeekendsDay7\WeekendsDay7\obj\Debug\netcoreapp3.1\WeekendsDay7.dll
+C:\Users\Ali\source\repos\WeekendsDay7\WeekendsDay7\obj\Debug\netcoreapp3.1\WeekendsDay7.pdb
+C:\Users\Ali\source\repos\WeekendsDay7\WeekendsDay7\obj\Debug\netcoreapp3.1\WeekendsDay7.genruntimeconfig.cache
